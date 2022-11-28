@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\Алёткина 2\bin\Debug\Алёткина 2.exe.config
+C:\Users\student\Desktop\Алёткина 2\bin\Debug\Алёткина 2.exe
+C:\Users\student\Desktop\Алёткина 2\bin\Debug\Алёткина 2.pdb
+C:\Users\student\Desktop\Алёткина 2\obj\Debug\Алёткина 2.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Алёткина 2\obj\Debug\Алёткина 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Алёткина 2\obj\Debug\Алёткина 2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Алёткина 2\obj\Debug\Алёткина 2.exe
+C:\Users\student\Desktop\Алёткина 2\obj\Debug\Алёткина 2.pdb
