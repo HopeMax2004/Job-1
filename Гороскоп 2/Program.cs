@@ -16,7 +16,7 @@ namespace Алёткина_2
             string sign;
             System.Console.WriteLine("Введите ваше имя: ");
             name = System.Console.ReadLine();
-            System.Console.WriteLine("Введите вашу фамилию: ");
+            System.Console.WriteLine("Введите вашу фамилию и отчество: ");
             surname = System.Console.ReadLine();
             System.Console.WriteLine("Введите ваше любимое животное: ");
             animal = System.Console.ReadLine();
